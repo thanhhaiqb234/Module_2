@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fa818d6-dd9a-43c5-a9d6-621c7a7df1d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../casestudy2/controller/Furama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../casestudy2/data/Customer.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../casestudy2/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../casestudy2/repository/ICustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../casestudy2/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../casestudy2/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../casestudy2/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss20/lam_them.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ss20/vidu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy/service/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/common/ReadAndWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/common/ReadAndWrite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/controller/CustomerManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/controller/CustomerManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/controller/EmployeeManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/controller/EmployeeManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/controller/FacilityManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/controller/FuramaController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/data/Employee.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/data/Employee.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/model/Booking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/model/Facility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/model/House.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/model/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/model/Villa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/repository/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/repository/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/repository/IEmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/repository/IEmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/service/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/service/IEmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../casestudy2/service/IEmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../casestudy2/view/menu.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2TQHujAK6khMHYzIaPxSP4BKtoy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/codegym/module_2/src/ss18/bai_tap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fa818d6-dd9a-43c5-a9d6-621c7a7df1d3" name="Changes" comment="" />
+      <created>1690968609253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690968609253</updated>
+      <workItem from="1690968610259" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
